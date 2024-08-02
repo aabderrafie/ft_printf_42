@@ -70,7 +70,7 @@ You are not required to implement all bonuses, but here are the options:
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/yourusername/ft_printf.git
+git clone git@github.com:aabderrafie/ft_printf_42_Cursus.git
 cd ft_printf
 ```
 
